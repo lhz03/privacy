@@ -107,7 +107,7 @@ sudo snap install golang --classic
 3. 下载源代码
 
 ```bash
-git clone http://github.com/kallydev/privacy
+git clone http://github.com/lhz03/privacy
 ```
 
 4. 编译前端
